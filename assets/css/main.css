@@ -1077,5 +1077,9 @@ a:hover
 .wkexp
 {
     margin: 20px;
+}
 
+.wkexp_title
+{
+    color: rgba(128, 128, 128, 0.712);
 }
