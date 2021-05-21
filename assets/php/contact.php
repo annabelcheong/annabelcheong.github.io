@@ -1,7 +1,8 @@
 <?php
 
 // ENTER YOUR EMAIL
-$emailTo = "yourmail@example.com";
+$emailTo = "annabel.cheong@gmail.com";
+// $emailTo = "yourmail@example.com";
 
 // ENTER IDENTIFIER
 $emailIdentifier =  "Message sent via contact form from " . $_SERVER["SERVER_NAME"];
